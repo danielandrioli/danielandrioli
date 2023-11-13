@@ -1,6 +1,14 @@
 ### Hi there 👋
 My name is Daniel Andrioli and currently I'm working with test automation.  
-I use Selenium WebDriver + Java + TestNG for GUI automation and RestAssured for API tests.  
+Skills:  
+- Automated web tests with Selenium WebDriver  
+- Automated mobile app tests with Appium  
+- Automated API tests with Rest Assured  
+- Manual API tests with Postman  
+- Database search and manipulation (SQL/NoSQL)  
+- General knowledge of tests (types, levels, techniques...). I got CTFL.  
+- Manual tests in general (exploratory, functional) using black box techniques, such as Decision table, Limit value analysis, Equivalence partitioning.  
+
 I also develop apps for Android OS using Kotlin and Jetpack Compose.  
 <!--
 **danielandrioli/danielandrioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
